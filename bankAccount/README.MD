@@ -1,0 +1,3 @@
+- Tạo tk dùng chung cho 3 khách hàng. Các khách hàng có thể nap/rut tiền từ tk
+- Mỗi khách hàng đc nạp rút tổng cộng 5 lần
+- In ra số tiền trên tk sau mỗi lần nạp rút
